@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer</h3>
 
-<p align="justify">
 - 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 - 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
@@ -17,7 +16,6 @@
 - ✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
 - 🔍 Problem-solving: Strong debugging skills.
 - 💬 Communication: Effective team collaboration.
-</p>
 
 <br/>
 
