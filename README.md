@@ -26,7 +26,7 @@ Dynamic and experienced software developer with a comprehensive 4-years backgrou
 
 🌍  I'm based in Tamil Nadu, India 
 
-🚀  I'm currently working on [Dr Carrot - Hospital Management APP](http://github.com/BharathKumar-c/hms-app)
+🚀  I'm currently working on [Rela - Hospital Management System](https://github.com/Rela-Healthcare/rhms-frontend)
  
 🧠  I'm learning Micro Frontends, Saas model, DevOps
 
