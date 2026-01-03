@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer</h3>
 <p align="justify">
-Dynamic and experienced software developer with a comprehensive 4-years background in the tech industry, blending freelance and corporate environments. Specializing in React Native and React for mobile and web application development, my skill set extends to robust backend technologies including Node.js, PHP, and Laravel. Proficient in database management with Postgres SQL and MySQL. Demonstrated ability to deliver high-quality, scalable solutions, leveraging a diverse technology stack. Adept at adapting to evolving project requirements and committed to delivering optimal results in fast-paced settings.
+Dynamic and experienced software developer with a comprehensive 7-years background in the tech industry, blending freelance and corporate environments. Specializing in React Native and React for mobile and web application development, my skill set extends to robust backend technologies including Node.js, PHP, and Laravel. Proficient in database management with Postgres SQL and MySQL. Demonstrated ability to deliver high-quality, scalable solutions, leveraging a diverse technology stack. Adept at adapting to evolving project requirements and committed to delivering optimal results in fast-paced settings.
 </p>
 
 - 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
